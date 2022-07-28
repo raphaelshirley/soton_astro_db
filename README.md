@@ -5,7 +5,9 @@ This repository contains the resource description files which allow tables, imag
 
 The database is managed using the [GAVO Data Center Helper Suite (DaCHS)](https://docs.g-vo.org/DaCHS/).
 
-The database is currently private.
+The database is currently private. It can be accessed from within the Soton VPN at:
+
+https://srv03483.soton.ac.uk
 
 ## Ingestion
 
