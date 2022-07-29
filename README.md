@@ -16,3 +16,9 @@ This repo should be cloned on to the server. You then need to download the raw d
 ```Shell
 dachs ingest help_a_list/q.rd
 ```
+
+This can take days or more depending on the size of the tables such that it is often best to run inside a tmux session.
+
+## Resource description creation
+
+In the [./notebooks/](./notebooks/) directory we put Jupyter notebooks to create the resource desciptors for tables based on table meta data.
